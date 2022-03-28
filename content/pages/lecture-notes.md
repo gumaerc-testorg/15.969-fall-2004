@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: f9e31b68-b285-dcff-d97f-8d43f32f461b
 ---
@@ -57,7 +58,7 @@ c) Understanding how improvisation works
 d) Teamwork implications - how business = working together
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_1))
+({{< resource_link c76aac75-e7f1-7911-3154-4cb531ffe86e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ b) Workplace environments
 c) Exploring different simple scenarios
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_3))
+({{< resource_link 3c53151a-769c-2615-f6e7-5355b8582623 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ Module 3: Visioning
 a) The Leader as the Expert: Expert Talker - exploring how to 'act' as if you are the expert; utilizing confidence and your own expertise to carry you through difficult situations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_7))
+({{< resource_link ebf78262-d8f2-009d-f5c6-b029c0294527 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +183,7 @@ b) The Leader as a Persuasive Salesperson: How to 'react' - various welcome vs.
 b) The Leader as Approachable: Stand-up Comedy 101…- the art of telling a joke, when and where to use? Why is this type of persona and skill helpful for leadership situations? When is it not?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_8))
+({{< resource_link 08b56146-1822-4433-16a0-eb9cd0b09615 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +209,7 @@ b) Trying on different leadership 'characterizations'
 c) How the reactions vary
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_9))
+({{< resource_link ddd7034e-6a4d-d921-6ca6-3e61b15eaa29 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +229,7 @@ Board Meetings - Controlling the Situation/ Expert/ Networker/ Approachable
 _VC Pitches - Controlling the Situation/ Expert/ Networker/ Approachable_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_10))
+({{< resource_link e7f1d224-ba85-cfed-74db-dd5140c7d725 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
