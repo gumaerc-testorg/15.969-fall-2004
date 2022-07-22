@@ -5,6 +5,7 @@ file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_9.pdf
 uid: ddd7034e-6a4d-d921-6ca6-3e61b15eaa29
 ---
 Leadership is dynamic (lecture slides).
-
