@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, readings, assignments, class participation, and grading policies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 830cbe40-e3fb-60a1-1948-5a9a1e2799c7
 ---
@@ -18,7 +22,7 @@ The first two weeks will be an overview of performing improvisation with introdu
 
 ### Course Readings
 
-The readings are all listed in the [readings]({{< baseurl >}}/pages/readings) section. Each reading is important as we'll be doing exercises based on their content. This means: you will be expected to talk about the material. Be prepared.
+The readings are all listed in the {{% resource_link 585c1274-708b-f074-c515-018079c3a1b2 "readings" %}} section. Each reading is important as we'll be doing exercises based on their content. This means: you will be expected to talk about the material. Be prepared.
 
 ### OpenCourseWare
 
