@@ -3,6 +3,7 @@ content_type: resource
 description: All the skills you really need to suceed in business... but were afraid
   to ask (introductory lecture slides).
 file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/c76aac75e7f1791131544cb531ffe86e_class_1.pdf
+file_size: 76007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
