@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Leadership is dynamic (lecture slides).
-file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/ddd7034e6a4dd9216ca63e61b15eaa29_class_9.pdf
+file: /ol-ocw-studio-app/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/ddd7034e6a4dd9216ca63e61b15eaa29_class_9.pdf
 file_size: 62796
 file_type: application/pdf
 learning_resource_types:
