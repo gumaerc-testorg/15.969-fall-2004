@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image building, real world apps, skills + risks (lecture slides).
-file: /ol-ocw-studio-app/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/08b561461822443316a0eb9cd0b09615_class_8.pdf
+file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/08b561461822443316a0eb9cd0b09615_class_8.pdf
 file_size: 63112
 file_type: application/pdf
 learning_resource_types:

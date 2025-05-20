@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: What makes a leader?  Can you learn leadership? (lecture slides)
-file: /ol-ocw-studio-app/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/3c53151a769c2615f6e75355b8582623_class_3.pdf
+file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/3c53151a769c2615f6e75355b8582623_class_3.pdf
 file_size: 57517
 file_type: application/pdf
 learning_resource_types:
