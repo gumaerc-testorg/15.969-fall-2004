@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A refresher (lecture slides).
-file: /ol-ocw-studio-app/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/ebf78262d8f2009df5c6b029c0294527_class_7.pdf
+file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/ebf78262d8f2009df5c6b029c0294527_class_7.pdf
 file_size: 60088
 file_type: application/pdf
 learning_resource_types:
